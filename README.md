@@ -35,4 +35,5 @@ Python 3 ,
 Jupyter Notebook , 
 Pandas , 
 NumPy , 
-Matplotlib and Seaborn,  
+Matplotlib and Seaborn.
+
