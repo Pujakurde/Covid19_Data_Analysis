@@ -1,12 +1,5 @@
 # Covid19_Data_Analysis
 
-## AI Project Summary
-"Numbers tell stories — this project lets data speak about how the world lived, fought, and recovered from COVID-19."  
-Using Python and data visualization, this project explores how the COVID-19 pandemic evolved across nations and how happiness, GDP, and life expectancy shaped the outcomes.  
-The analysis blends data science and social insight, letting AI summarize patterns that reflect both humanity and health.
-
----
-
 ## Overview
 This project performs a comprehensive data analysis of global COVID-19 statistics and correlates them with economic and social indicators from the Worldwide Happiness Report.  
 It reveals how richer, happier, and healthier nations were better equipped to combat the pandemic.
@@ -34,15 +27,7 @@ worldwide_happiness_report.csv ( Happiness data — GDP, life expectancy, genero
 - Plotted infection trends, scatterplots, and correlation heatmaps  
 - Used Seaborn and Matplotlib to reveal relationships  
 
----
 
-## Insights and AI Summary
-
-### AI-Generated Summary
-The data suggests that countries with higher GDP per capita and greater life satisfaction faced the pandemic more effectively, reporting lower infection peaks and higher recovery rates.  
-A nation’s social well-being and economic readiness appear to be powerful indicators of resilience during a global crisis.
-
----
 
 ## Technologies Used
 
