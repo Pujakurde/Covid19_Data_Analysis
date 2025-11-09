@@ -46,8 +46,8 @@ A nation’s social well-being and economic readiness appear to be powerful indi
 
 ## Technologies Used
 
-Python 3 
-Jupyter Notebook 
-Pandas
-NumPy
-Matplotlib and Seaborn 
+Python 3 , 
+Jupyter Notebook , 
+Pandas , 
+NumPy , 
+Matplotlib and Seaborn,  
